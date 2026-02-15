@@ -53,4 +53,9 @@ The sniffer captures a fixed number of packets and then stops automatically.
 ---
 
 ## 📂 Project Structure  
+PRODIGY_CS_05_Network_Packet_Analyzer/
+│── packet_sniffer.py
+│── README.md
+│── .gitignore
+
 
